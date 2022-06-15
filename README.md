@@ -1,3 +1,6 @@
+![MapEdit Image](https://github.com/PaulWGraham/MapEdit/blob/main/Map%20Edit%20Thumbnail_1.1.1.png)
+
+
 # MapEdit
 MapEdit is a single file ascii art editor written in Python. Think 'MS Paint' but instead of painting with pixels MapEdit paints with ASCII characters.
 
